@@ -1,0 +1,4 @@
+Biggest issues:
+
+4/5/2021 -- HTML isn't standardized. Even though everything looks the same and is in the same format, there are some exceptions, and I get errors on some pokemon but not others. The other is the sheer amount of evolution methods. 
+4/21/2021 -- Imported the Evolution tables manually, ended up working alright. Now trying to work on getting the queries to work. 
